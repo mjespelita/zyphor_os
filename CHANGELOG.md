@@ -1,3 +1,10 @@
+## [0.0.3](https://github.com/markjasonespelita/zyphor/compare/v0.0.2...v0.0.3) (2026-03-31)
+
+
+### Bug Fixes
+
+* added live config on the includes.chroot/etc/live. ([01bbe8d](https://github.com/markjasonespelita/zyphor/commit/01bbe8da0a3bfbce76f5e9fc98f86304c137ae19))
+
 ## [0.0.2](https://github.com/markjasonespelita/zyphor/compare/v0.0.1...v0.0.2) (2026-03-31)
 
 
