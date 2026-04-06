@@ -1,6 +1,6 @@
 ![Zyphor Logo](kali-config/variant-xfce/includes.chroot/usr/share/calamares/branding/zyphor/zyphor-full.png)
 **By:** Mark Jason Penote Espelita  
-**Facebook:** https://www.facebook.com/mark.jason.penote.espelita  
+**Creator Facebook Account:** https://www.facebook.com/mark.jason.penote.espelita  
 **Email:** markjasonespelita@gmail.com  
 **Contact:** 09978972884 | 09203454006  
 **Created:** March 30, 2026
