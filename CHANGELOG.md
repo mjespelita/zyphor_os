@@ -1,3 +1,10 @@
+## [0.0.17](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.16...v0.0.17) (2026-04-07)
+
+
+### Bug Fixes
+
+* added plymouth theme and splash screen during boot process. ([a8179b3](https://github.com/markjasonespelita/zyphor_os/commit/a8179b311def30854a62f94b5631867efed7f2c2))
+
 ## [0.0.16](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.15...v0.0.16) (2026-04-07)
 
 
