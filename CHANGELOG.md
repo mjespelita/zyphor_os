@@ -1,3 +1,10 @@
+## [0.0.14](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.13...v0.0.14) (2026-04-07)
+
+
+### Bug Fixes
+
+* apply support on the virtual machine desktop on the /etc/xdg/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml path. ([3233cb3](https://github.com/markjasonespelita/zyphor_os/commit/3233cb3bcd229c6fd6d3b4c6bf17631343f088db))
+
 ## [0.0.13](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.12...v0.0.13) (2026-04-06)
 
 
