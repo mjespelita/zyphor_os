@@ -1,3 +1,10 @@
+## [0.0.19](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.18...v0.0.19) (2026-04-08)
+
+
+### Bug Fixes
+
+* added folders for drivers and firmware list ([98e0054](https://github.com/markjasonespelita/zyphor_os/commit/98e00548fedd7b2d04ad0a73bedaf875540a7875))
+
 ## [0.0.18](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.17...v0.0.18) (2026-04-08)
 
 
