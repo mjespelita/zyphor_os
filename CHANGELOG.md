@@ -1,3 +1,10 @@
+## [0.0.30](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.29...v0.0.30) (2026-04-13)
+
+
+### Bug Fixes
+
+* added -sf on ln util and -p flags on kali-finish-install script to safely override existing files and folders if exists. ([463bcf2](https://github.com/markjasonespelita/zyphor_os/commit/463bcf250f561e54067176abe9dcf8ec93916768))
+
 ## [0.0.29](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.28...v0.0.29) (2026-04-13)
 
 
