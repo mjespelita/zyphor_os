@@ -1,3 +1,10 @@
+## [0.0.31](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.30...v0.0.31) (2026-04-13)
+
+
+### Bug Fixes
+
+* modified whiskermenu by utilizing .face of the zyphor os. ([eeae1cc](https://github.com/markjasonespelita/zyphor_os/commit/eeae1ccd11a0ecb1606f24c6aa72bd49d8365967))
+
 ## [0.0.30](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.29...v0.0.30) (2026-04-13)
 
 
