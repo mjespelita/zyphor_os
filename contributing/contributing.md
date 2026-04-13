@@ -21,5 +21,7 @@ Adding your name here means you are now part of the Zyphor OS journey 🚀
 ## 🧑‍🚀 Contributors
 
 - Mark Jason Espelita (Founder)
+- Mark Jason Espelita (Github Account 2 - Contrubutor)
+- (your name here ... ) - (Contributor - Demo Account)
 
 <!-- Add your name below this line -->
