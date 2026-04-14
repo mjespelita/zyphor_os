@@ -1,3 +1,10 @@
+## [0.0.33](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.32...v0.0.33) (2026-04-14)
+
+
+### Bug Fixes
+
+* added DOCUMENTATION folder for the written documentation files and folders for the build overrides - for xfce4 desktop environment. ([36fbdfb](https://github.com/markjasonespelita/zyphor_os/commit/36fbdfb2111177d26803a5bbcadff5f145467c2c))
+
 ## [0.0.32](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.31...v0.0.32) (2026-04-13)
 
 
