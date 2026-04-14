@@ -1,3 +1,10 @@
+## [0.0.34](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.33...v0.0.34) (2026-04-14)
+
+
+### Bug Fixes
+
+* modified the initial grub bootloader background image and installer banner. ([7b2e1e1](https://github.com/markjasonespelita/zyphor_os/commit/7b2e1e169ed3971b2600cf57cfc7157db9894b9b))
+
 ## [0.0.33](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.32...v0.0.33) (2026-04-14)
 
 
