@@ -1,4 +1,5 @@
 ![Zyphor Logo](kali-config/variant-xfce/includes.chroot/usr/share/backgrounds/zyphor-grub-bootloader-screensavers/zyphor-full.png)
+
 **By:** Mark Jason Penote Espelita  
 **Creator Facebook Account:** https://www.facebook.com/mark.jason.penote.espelita  
 **Email:** markjasonespelita@gmail.com  
@@ -12,6 +13,34 @@
 Designed with simplicity, performance, and control in mind, **Zyphor OS** aims to deliver a streamlined operating system experience without unnecessary bloat.
 
 One of **Zyphor OS**’s core goals is to provide a Windows-like user experience — making it easy for users transitioning from Windows to feel right at home. From layout and navigation to workflow and usability, **Zyphor OS** minimizes the learning curve while still offering the full power of Linux underneath.
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="showcase/grub.jpeg" width="45%" />
+  <img src="showcase/login-dark.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="showcase/login-light.jpeg" width="45%" />
+  <img src="showcase/desktop.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="showcase/menu.jpeg" width="45%" />
+  <img src="showcase/wallpaper-1.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="showcase/wallpaper-2.jpeg" width="45%" />
+  <img src="showcase/wallpaper-3.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="showcase/wallpaper-4.jpeg" width="45%" />
+</p>
+
+---
 
 # Build-Scripts
 
