@@ -1,3 +1,22 @@
+# [1.0.0](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.38...v1.0.0) (2026-04-16)
+
+
+* feat!: Official release of the Zyphor OS Beta Version ([f322b5a](https://github.com/markjasonespelita/zyphor_os/commit/f322b5ae7c48fcc59ba715d38fe97901b3bc9854))
+
+
+### Bug Fixes
+
+* added custom commands folder and modified the kali-finish-install to apply the custom commands. ([30c8d2e](https://github.com/markjasonespelita/zyphor_os/commit/30c8d2e7c51ed66a7f29254a61e83fc628ecec69))
+* added custom commands folder and modified the kali-finish-install to apply the custom commands. ([2523e87](https://github.com/markjasonespelita/zyphor_os/commit/2523e8740c01cc2d4a9b86141fdcb8c5ebf3a73b))
+* added custom default commands. ([98e4dff](https://github.com/markjasonespelita/zyphor_os/commit/98e4dff032d16e48adf306084af495efacf6ad0f))
+* added some custom default commands. ([d094f9a](https://github.com/markjasonespelita/zyphor_os/commit/d094f9a58b344288f77cb528fb7f239722474f3a))
+* moved zyphor custom commands to /usr/local/bin folder for easy access, and modified the kali-finish-install to make that command executable. ([a02501e](https://github.com/markjasonespelita/zyphor_os/commit/a02501e893423cfe9ff20808c717817ed383d1e3))
+
+
+### BREAKING CHANGES
+
+* Official release of the Zyphor OS v1.0.0 Beta.
+
 ## [0.0.38](https://github.com/markjasonespelita/zyphor_os/compare/v0.0.37...v0.0.38) (2026-04-15)
 
 
