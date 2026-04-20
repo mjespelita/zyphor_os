@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.1.0...v1.2.0) (2026-04-20)
+
+
+### Features
+
+* added apt sources list file in the /etc/apt/sources.list.d/zyphor.list ([9409696](https://github.com/markjasonespelita/zyphor_os/commit/94096961a3af5f19614928ba43db28c1129ecef8))
+
 # [1.1.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.0.0...v1.1.0) (2026-04-20)
 
 
