@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.3.1...v1.4.0) (2026-04-26)
+
+
+### Features
+
+* making the Redmond 7 default desktop panel and configure icon to zyphor os icon. ([b2ee61b](https://github.com/markjasonespelita/zyphor_os/commit/b2ee61b0cdc0ec559a1cb0a1b9beea63b63637e1))
+
 ## [1.3.1](https://github.com/markjasonespelita/zyphor_os/compare/v1.3.0...v1.3.1) (2026-04-21)
 
 
