@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.5.1...v1.6.0) (2026-04-28)
+
+
+### Features
+
+* added preinstalled lolcat, figlet and php utilities. ([2223e4c](https://github.com/markjasonespelita/zyphor_os/commit/2223e4c068b0fa63fbae662e83f0c0f498a6da6b))
+
 ## [1.5.1](https://github.com/markjasonespelita/zyphor_os/compare/v1.5.0...v1.5.1) (2026-04-28)
 
 
