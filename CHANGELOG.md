@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/markjasonespelita/zyphor_os/compare/v1.6.0...v1.6.1) (2026-04-29)
+
+
+### Bug Fixes
+
+* fixed OS Release Details. ([f81544f](https://github.com/markjasonespelita/zyphor_os/commit/f81544f141ad4d61950045a5c6e2dd2b86e40569))
+
 # [1.6.0](https://github.com/markjasonespelita/zyphor_os/compare/v1.5.1...v1.6.0) (2026-04-28)
 
 
