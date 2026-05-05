@@ -210,7 +210,7 @@ else
   echo "ERROR: Non Debian-based OS" >&2
 fi
 
-if [ ! -d "$(dirname $0)/kali-config/variant-$KALI_VARIANT" ]; then
+if [ ! -d "$(dirname $0)/zyphor-os/variant-$KALI_VARIANT" ]; then
   echo "ERROR: Unknown variant of Kali live configuration: $KALI_VARIANT" >&2
 fi
 require_package live-build "1:20250814+kali2"
